@@ -13,3 +13,4 @@
 3. 打开本地命令行工具（Windows系统可使用CMD、PowerShell，Mac/Linux系统可使用终端），进入想要存放项目的文件夹（可通过cd命令切换目录，例如cd Desktop/Projects）；
 4. 输入克隆命令：git clone 复制的项目链接（例如git clone https://github.com/xxx/xutao-first-project.git），按下回车；
 5. 等待克隆完成，克隆成功后，本地文件夹中会出现“xutao-first-project”文件夹，即项目的本地副本。
+对方
